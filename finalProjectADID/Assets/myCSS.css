@@ -1,0 +1,45 @@
+﻿.loginBox {
+    padding-left: 40%;
+    padding-right: auto;
+    padding-top: 10%;
+}
+
+.addButton {
+    font-size: 20px;
+    float: right;
+    margin-bottom: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.page-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.navbar .navbar-dark .bg-myColor {
+    background-color: red;
+    color: red;
+}
+
+.tableHead {
+    background-color: red;
+    color: white;
+}
+
+.buttonColor {
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+.addButton{
+    float:right;
+    margin-top:10px;
+    color:white;
+}
+
